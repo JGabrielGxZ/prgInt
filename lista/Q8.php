@@ -1,5 +1,5 @@
 <?php
-    $resultado = 5;
+    $resultado = 1000;
     $numA = $resultado;
     $valor = $numA;
     
